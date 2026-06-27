@@ -1,2 +1,3 @@
 # galaxy
-Galaxy is an elastic operating system.
+
+galaxy is an elastic operating system.
